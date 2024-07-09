@@ -40,6 +40,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" height="48" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" width="48" height="48" alt="GitHub"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="48" height="48" alt="Flask"/>
   <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" width="48" height="48" alt="Developer Tool"/>
   <img src="https://img.icons8.com/color/48/000000/powershell.png" width="48" height="48" alt="PowerShell"/>
@@ -51,6 +52,8 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="48" height="48" alt="Windows"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png" width="48" height="48" alt="Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="48" height="48" alt="MS Office"/>
 </p>
 
 ### 📜 Certifications
