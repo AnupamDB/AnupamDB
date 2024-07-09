@@ -3,10 +3,10 @@
 </h1>
 
 <h2 align="center">Hello Folks, I'm Anupam Dev Burman 👋</h2>
-<h3 align="center">Data Analyst & AI/ML Engineer | Innovator | Tech Enthusiast</h3>
+<h2 align="center">Data Analyst & AI/ML Engineer | Smart India Hackathon Participant | AWS Certified Cloud Practitioner | Cricket Lover</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AnupamDB&color=blue" alt="Profile Views"/>
   <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/twitter/follow/yourusername?style=social"></a>
@@ -17,44 +17,49 @@
 ### 🚀 About Me
 - Passionate **Data Analyst** and **AI/ML Engineer** with expertise in **Data Science, AI, ML, DL, Computer Vision,** and **NLP**.
 - Proficient in **C++, Python,** and **Java** programming languages.
-- AWS Cloud Certified and experienced in various **Cloud and DevOps** tools.
+- AWS Certified Cloud Practitioner and experienced in various **Developer Tools**.
 - Avid learner and tech enthusiast, always exploring new technologies and innovations.
 
-### 🛠️ My Toolbox
-#### Programming Languages
+# 🛠️ My Toolbox
+
+## Programming Languages
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="48" height="48" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="48" height="48" alt="Java"/>
+  <img src="https://img.icons8.com/?size=100&id=Ign0QG33bZzq&format=png&color=000000" width="48" height="48" alt="Programming Language"/>
 </p>
 
-#### Data Science and ML
+## Data Science and ML
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-scikit-learn-is-a-free-software-machine-learning-library-for-the-python-programming-language-logo-color-tal-revivo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-  <img src="https://img.icons8.com/color/48/000000/opencv.png"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48" alt="NumPy"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="48" height="48" alt="Pandas"/>
+  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" width="48" height="48" alt="Matplotlib"/>
+  <img src="https://quintagroup.com/cms/python/images/scikit-learn-logo.png/@@images/4a0dce0a-be5d-4d11-a913-f53f9e5abf16.png" width="48" height="48" alt="Scikit-Learn"/>
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" width="48" height="48" alt="Machine Learning"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="48" height="48" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" width="48" height="48" alt="OpenCV"/>
+  <img src="https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000" width="48" height="48" alt="Data Science"/>
 </p>
 
-#### Cloud and DevOps
+## Developer Tools
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
-  <img src="https://img.icons8.com/color/48/000000/powershell.png"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="48" height="48" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" alt="Git"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/flask.png" width="48" height="48" alt="Flask"/>
+  <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" width="48" height="48" alt="Developer Tool"/>
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" width="48" height="48" alt="PowerShell"/>
 </p>
 
-#### Tools and Environments
+## Tools and Environments
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png"/>
-  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="48" height="48" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="48" height="48" alt="Windows"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="48" height="48" alt="Linux"/>
 </p>
+
+
 
 ### 🌟 Projects
 
@@ -80,12 +85,23 @@ Project Links: **[Medicure-frontend](https://github.com/AnupamDB/medicure-fronte
   - **Platform Integration**: Integrated the platform with other advanced AI model technology, enhancing scalability and fostering continuous improvement by 20%.
 
 ### 🎙️ Podcasts
-- Participated in a cricket podcast twice with 2-time World Cup Winner Mr. Brad Hogg from Australia for IPL 2024 and ICC Men's T20 World Cup 2024.
-  - [Episode 1: IPL 2024 Insights](https://www.youtube.com/watch?v=youryoutubeid1)
-  - [Episode 2: T20 World Cup 2024 Predictions](https://www.youtube.com/watch?v=youryoutubeid2)
+I had the honor of participating in a cricket podcast twice with the legendary Mr. Brad Hogg, a two-time World Cup winner from Australia. We discussed exciting insights and predictions for major cricket events, specifically IPL 2024 and ICC Men's T20 World Cup 2024. You can watch the episodes below:
+
+- **Podcast 1: IPL 2024**  
+  <a href="https://www.youtube.com/live/waG_2ZL9Cms?feature=shared" target="_blank">
+  <img src="https://img.youtube.com/vi/waG_2ZL9Cms/0.jpg" alt="IPL 2024 Podcast with Brad Hogg" width="480" height="360"/>
+</a>
+
+- **Podcast 2: ICC Men's T20 World Cup 2024**  
+  <a href="https://www.youtube.com/live/EAF5gP307y0?feature=shared" target="_blank">
+  <img src="https://img.youtube.com/vi/EAF5gP307y0/0.jpg" alt="T20 World Cup 2024 Podcast with Brad Hogg" width="480" height="360"/>
+</a>
+
 
 ### 📜 Certifications
-- **AWS Cloud Certification**
+- **AWS Certified Cloud Practitioner**
+- **NPTEL Cloud Computing**
+- **Iamneo DSA Java Course**
 
 ### 🎯 Career Highlights
 - Successfully implemented AI-driven solutions in healthcare.
