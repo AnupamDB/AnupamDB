@@ -1,24 +1,18 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/banner.png" alt="banner">
+  <img src="https://github.com/AnupamDB/AnupamDB/assets/107240384/fb74c1ed-336f-456c-9a3f-2751dc73a461" alt="banner">
 </h1>
 
 <h2 align="center">Hello Folks, I'm Anupam Dev Burman 👋</h2>
 <h2 align="center">Data Analyst & AI/ML Engineer | Smart India Hackathon Participant | AWS Certified Cloud Practitioner | Cricket Lover</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnupamDB&color=blue" alt="Profile Views"/>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social"></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/twitter/follow/yourusername?style=social"></a>
-</p>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
 ### 🚀 About Me
 - Passionate **Data Analyst** and **AI/ML Engineer** with expertise in **Data Science, AI, ML, DL, Computer Vision,** and **NLP**.
-- Proficient in **C++, Python,** and **Java** programming languages.
+- Proficient in **C++, Python, Java** and **SQL** programming languages.
 - AWS Certified Cloud Practitioner and experienced in various **Developer Tools**.
-- Avid learner and tech enthusiast, always exploring new technologies and innovations.
+- Avid cricket enthusiast with a special interest in discussing and analyzing cricket matches and tournaments.
 
 # 🛠️ My Toolbox
 
@@ -59,7 +53,13 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" width="48" height="48" alt="Linux"/>
 </p>
 
-
+### 📜 Certifications
+- **AWS Certified Cloud Practitioner**
+- **NPTEL Cloud Computing**
+- **Iamneo DSA Java Course**
+- **Google IT Automation Professional Certificate**
+- **IBM AI Engineering Professional Certificate**
+- **IBM Data Science Professional Certificate**
 
 ### 🌟 Projects
 
@@ -97,22 +97,11 @@ I had the honor of participating in a cricket podcast twice with the legendary M
   <img src="https://img.youtube.com/vi/EAF5gP307y0/0.jpg" alt="T20 World Cup 2024 Podcast with Brad Hogg" width="480" height="360"/>
 </a>
 
-
-### 📜 Certifications
-- **AWS Certified Cloud Practitioner**
-- **NPTEL Cloud Computing**
-- **Iamneo DSA Java Course**
-
-### 🎯 Career Highlights
-- Successfully implemented AI-driven solutions in healthcare.
-- Developed a future outbreak prediction model with high accuracy.
-- Regularly participated in tech and cricket podcasts, sharing insights and expertise.
-
 ### 📬 Get in Touch
 <p align="center">
   <a href="mailto:anupamdevburman@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anupam-dev-burman-0ba9b922a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/AnupamDB"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
