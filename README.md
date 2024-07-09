@@ -12,7 +12,7 @@
 - Passionate **Data Analyst** and **AI/ML Engineer** with expertise in **Data Science, AI, ML, DL, Computer Vision,** and **NLP**.
 - Proficient in **C++, Python, Java** and **SQL** programming languages.
 - AWS Certified Cloud Practitioner and experienced in various **Developer Tools**.
-- Avid cricket enthusiast with a special interest in discussing and analyzing cricket matches and tournaments.
+- An avid cricket enthusiast with a special interest in discussing and analyzing cricket matches and tournaments. Also enjoy participating in various cricket podcasts.
 
 # 🛠️ My Toolbox
 
