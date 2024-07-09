@@ -46,6 +46,15 @@
   <img src="https://img.icons8.com/color/48/000000/powershell.png" width="48" height="48" alt="PowerShell"/>
 </p>
 
+## 🤖 Generative AI and Prompt Engineering
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=ka3InxFU3QZa&format=png&color=000000" width="48" height="48" alt="ChatGPT"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThr7qrIazsvZwJuw-uZCtLzIjaAyVW_ZrlEQ&s" width="48" height="48" alt="Gemini" />
+  <img src="https://avatars.githubusercontent.com/u/82883543?s=280&v=4" width="48" height="48" alt="Black Box AI" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ydyrjFLDfKMTMDJ7sxkVozDbhXWSPLBIwg&s" width="48" height="48" alt="Claude" />
+</p>
+
+
 ## Tools and Environments
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="48" height="48" alt="VS Code"/>
