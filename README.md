@@ -54,6 +54,8 @@
   <img src="https://img.icons8.com/color/48/000000/linux.png" width="48" height="48" alt="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" width="48" height="48" alt="Canva"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" width="48" height="48" alt="MS Office"/>
+  <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" width="48" height="48" alt="Jupyter Notebooks"/>
+  <img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" width="48" height="48" alt="Google Colab"/>
 </p>
 
 ### 📜 Certifications
