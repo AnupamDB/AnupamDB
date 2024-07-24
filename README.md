@@ -3,12 +3,13 @@
 </h1>
 
 <h2 align="center">Hello Folks, I'm Anupam Dev Burman 👋</h2>
-<h2 align="center">Data Analyst & AI/ML Engineer | Smart India Hackathon Participant | AWS Certified Cloud Practitioner | Cricket Lover</h2>
+<h2 align="center">Proud INDIAN | Data Analyst, Software Engineer & AI/ML Engineer | Smart India Hackathon Participant | AWS Certified Cloud Practitioner | Cricket Lover</h2>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400"/>
 
 ### 🚀 About Me
+- First and foremost, I'm a proud Indian. 
 - Passionate **Data Analyst** and **AI/ML Engineer** with expertise in **Data Science, AI, ML, DL, Computer Vision,** and **NLP**.
 - Proficient in **C++, Python, Java** and **SQL** programming languages.
 - AWS Certified Cloud Practitioner and experienced in various **Developer Tools**.
