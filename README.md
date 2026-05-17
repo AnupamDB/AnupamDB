@@ -76,7 +76,7 @@
 ### 🌟 Projects
 
 #### JD–Resume Matching System
-Project Link: NA
+Project Link: **[JDResume](https://github.com/AnupamDB/JDResume-Matcher)**
 - Developed a multi-document Agentic AI pipeline using LangGraph to orchestrate semantic re-
 trieval and ranking workflows for recruitment automation.
 - Implemented embedding-based semantic matching between resumes and job descriptions to identify
