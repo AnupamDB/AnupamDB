@@ -98,7 +98,7 @@ files, supporting seamless analysis workflows.
 model integration, enabling fast insights from large datasets.
 
 #### FitFusion – All in one Fitness Hub
-Project Link: **[FitFusion URL](https://capstone-fitness.vercel.app/)
+Project Link: **[FitFusion URL](https://capstone-fitness.vercel.app/)**
 - Developed an AI-powered fitness application that uses computer vision to track real-time human
 body posture using OpenCV and MediaPipe.
 - Implemented pose estimation logic to count exercise repetitions and provide dynamic form-correction
