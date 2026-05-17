@@ -78,39 +78,39 @@
 
 ### 🌟 Projects
 
-#### Quick Taxi Application
-Project Links: **[QT_Driver](https://github.com/AnupamDB/QT_Driver)**, **[QT_Passenger](https://github.com/AnupamDB/QT_Passenger)**
-  - **Objective**: Transformed taxi services by developing an app where passengers submit ride requests, and drivers bid competitively, promoting choice and fair pricing.
-  - **User Selection Feature**: Enabled users to choose from a list of drivers based on price, rating, and other preferences, leading to a 20% increase in user satisfaction.
-  - **Bidding System**: Implemented a driver bidding system for ride requests, resulting in a 15% reduction in ride costs for users.
-  - **Rural Focus**: Designed to improve transportation in rural areas, increasing accessibility and convenience for over 30 users in underserved regions.
+#### JD–Resume Matching System
+Project Link: NA
+- Developed a multi-document Agentic AI pipeline using LangGraph to orchestrate semantic re-
+trieval and ranking workflows for recruitment automation.
+- Implemented embedding-based semantic matching between resumes and job descriptions to identify
+top candidate fits.
+- Built automated output-generation logic producing JD-wise ranked resume repositories for down-
+stream recruiter usage.
+- Utilized LLM orchestration, document parsing, semantic search, and workflow automation tech-
+niques in Python.
 
 #### BeFAP (BEst Flipkart Amazon Products) Search Aggregator Website
 Project Links: **[BeFAP](https://github.com/AnupamDB/Project-Exhibition-BeFAP)**
-  - **Objective**: Enhanced user shopping experiences by creating a responsive website that compares products on Amazon and Flipkart, addressing fragmented product information issues across these platforms.
-  - **Web Scrapers Development**: Built efficient web scrapers to gather product data (like price, ratings, reviews) from Amazon and Flipkart, ensuring information retrieval of over 50 products.
-  - **Machine Learning Model**: Trained a machine learning model to analyze and rank products, achieving an 85% accuracy in recommendations and improving user decision-making by 30%.
+- Built a product comparison tool using Python, BeautifulSoup, and pandas to scrape, aggre-
+gate, and analyze product data and reviews from Flipkart and Amazon based on search keywords.
+- Applied NLP techniques with NLTK and custom models to preprocess, summarize, and perform
+sentiment analysis on customer reviews for enhanced insights.
+- Automated data storage and retrieval by saving detailed product data and rankings as JSON
+files, supporting seamless analysis workflows.
+- Optimized performance and scalability using pandas for efficient data handling and joblib for
+model integration, enabling fast insights from large datasets.
 
-#### Medicure AI for Tomorrow’s Diagnosis
-Project Links: **[Medicure-frontend](https://github.com/AnupamDB/medicure-frontend)**, **[Medicure-backend](https://github.com/AnupamDB/medicure-backend)**
-  - **Objective**: Improved healthcare outcomes by assisting professionals with accurate and timely disease diagnosis.
-  - **AI-Driven Diagnosis System**: Developed and implemented an AI system that improved disease diagnosis accuracy by 40% and reduced diagnosis time by 30%.
-  - **Empowerment of Healthcare Providers**: Equipped over 100 local healthcare providers with advanced diagnostic tools, addressing underdiagnosed conditions and improving health outcomes by 25%.
-  - **Future Outbreak Prediction Model**: Developed a model achieving 90% accuracy in predicting potential cases and deaths, enabling strategic healthcare planning for 50+ rural clinics.
-  - **Platform Integration**: Integrated the platform with other advanced AI model technology, enhancing scalability and fostering continuous improvement by 20%.
-
-### 🎙️ Podcasts
-I had the honor of participating in a cricket podcast twice with the legendary Mr. Brad Hogg, a two-time World Cup winner from Australia. We discussed exciting insights and predictions for major cricket events, specifically IPL 2024 and ICC Men's T20 World Cup 2024. You can watch the episodes below:
-
-- **Podcast 1: IPL 2024**  
-  <a href="https://www.youtube.com/live/waG_2ZL9Cms?feature=shared" target="_blank">
-  <img src="https://img.youtube.com/vi/waG_2ZL9Cms/0.jpg" alt="IPL 2024 Podcast with Brad Hogg" width="480" height="360"/>
-</a>
-
-- **Podcast 2: ICC Men's T20 World Cup 2024**  
-  <a href="https://www.youtube.com/live/EAF5gP307y0?feature=shared" target="_blank">
-  <img src="https://img.youtube.com/vi/EAF5gP307y0/0.jpg" alt="T20 World Cup 2024 Podcast with Brad Hogg" width="480" height="360"/>
-</a>
+#### FitFusion – All in one Fitness Hub
+Project Link: **[FitFusion URL](https://capstone-fitness.vercel.app/)
+- Developed an AI-powered fitness application that uses computer vision to track real-time human
+body posture using OpenCV and MediaPipe.
+- Implemented pose estimation logic to count exercise repetitions and provide dynamic form-correction
+feedback to users.
+- Integrated a calorie counter using MET values to estimate calories burned for various physical
+activities.
+- Designed and deployed a responsive web interface using Node.js, React.js, and modern front-end
+technologies.
+- Used MongoDB for secure storage of user data, workout history, and session tracking.
 
 ### 📬 Get in Touch
 <p align="center">
